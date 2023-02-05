@@ -20,6 +20,9 @@ pip install mechanize
 pip install future
 
 rm -rf RANDOM
+
 git clone https://github.com/SK-AK47/SK-RANDOM
-cd RANDOM 
+
+cd RANDOM
+ 
 python SKKING.py 
